@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/nayoa/node-aws-docker.svg?style=svg)](https://circleci.com/gh/nayoa/node-aws-docker)
 
-[nayoakinyele/node-aws-docker](https://hub.docker.com/repository/docker/]nayoakinyele/node-aws-docker) is a custom built docker image that has Node and the AWS CLI pre-installed. `nayoakinyele/node-aws-docker` uses `node:10.16-alpine` as a base image.
+[nayoakinyele/node-aws-docker](https://hub.docker.com/r/nayoakinyele/node-aws-docker) is a custom built docker image that has Node and the AWS CLI pre-installed. `nayoakinyele/node-aws-docker` uses `node:10.16-alpine` as a base image.
 
 ## Prerequisities
 
